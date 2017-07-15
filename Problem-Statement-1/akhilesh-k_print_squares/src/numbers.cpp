@@ -2,6 +2,7 @@
 **************************************************
 This is the node named numbers.
 It will publish on the topic "topic_numbers"
+RoSBoX Problem Statement 1
 **************************************************
 */
 #include "ros/ros.h"
