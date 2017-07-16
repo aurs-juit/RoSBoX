@@ -10,3 +10,7 @@ Submissions shall obey the following guidelines:
 Submissions should be made for the two given Problem Statements:
 - Problem-Statement-1
 - Problem-Statement-2
+
+==========
+In case you have trouble starting with the ROS, a short tutorial will be following soon.<br>
+https://github.com/aurs-juit/AURS-Tutorials
