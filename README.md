@@ -14,3 +14,8 @@ Submissions should be made for the two given Problem Statements:
 ==========
 In case you have trouble starting with the ROS, a short tutorial will be following soon.<br>
 https://github.com/aurs-juit/AURS-Tutorials
+<br>
+
+### Try ROS on Boards:
+1). Raspberry Pi
+2). Arduino
