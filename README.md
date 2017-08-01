@@ -13,9 +13,6 @@ Submissions should be made for the two given Problem Statements:
 
 <br>
 
-**Apart from Problems starter pack has been added for ROS. Starting from TurtleBot**
-=======
-==========
 In case you have trouble starting with the ROS, a short tutorial will be following soon.<br>
 https://github.com/aurs-juit/AURS-Tutorials
 <br>
@@ -23,4 +20,7 @@ https://github.com/aurs-juit/AURS-Tutorials
 ### Try ROS on Boards:
 1). Raspberry Pi
 2). Arduino
+<br>
 
+
+**Apart from Problems starter pack has been added for ROS. Starting from TurtleBot**
